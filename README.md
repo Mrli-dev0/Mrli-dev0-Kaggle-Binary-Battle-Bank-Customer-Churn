@@ -1,10 +1,10 @@
 # Binary Battle ML: Bank Customer Churn Challenge
 
-\[\!\[GitHub license\]\(https://img\.shields\.io/badge/license\-MIT\-blue?style=flat\-square\)\]\(\)
-\[\!\[Python\]\(https://img\.shields\.io/badge/Python\-3\.8%2B\-brightgreen?style=flat\-square\)\]\(\)
-\[\!\[Score\]\(https://img\.shields\.io/badge/Score\-0\.89122\-red?style=flat\-square\)\]\(\)
-\[\!\[Rank\]\(https://img\.shields\.io/badge/Rank\-1st%20%28Top%201%29\-yellow?style=flat\-square\)\]\(\)
-\[\!\[Task\]\(https://img\.shields\.io/badge/Task\-Binary%20Classification\-purple?style=flat\-square\)\]\(\)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/Mrli-dev0/Mrli-dev0-Kaggle-Binary-Battle-Bank-Customer-Churn/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen?style=flat-square)](https://www.python.org/)
+[![Score](https://img.shields.io/badge/Score-0.89122-red?style=flat-square)]()
+[![Rank](https://img.shields.io/badge/Rank-1st%20(Top%201)-yellow?style=flat-square)]()
+[![Task](https://img.shields.io/badge/Task-Binary%20Classification-purple?style=flat-square)]()
 
 # 🏆 银行客户流失预测比赛第一名解决方案
 
@@ -118,9 +118,9 @@ pip install matplotlib==3.10.8 seaborn==0.13.2 joblib==1.5.3
 
 ## 💡 技术栈
 
-\[\!\[LightGBM\]\(https://img\.shields\.io/badge/LightGBM\-4\.6\.0\.99\-blue?style=flat\-square\)\]\(\)
-\[\!\[XGBoost\]\(https://img\.shields\.io/badge/XGBoost\-3\.2\.0\-green?style=flat\-square\)\]\(\)
-\[\!\[CatBoost\]\(https://img\.shields\.io/badge/CatBoost\-1\.2\.10\-orange?style=flat\-square\)\]\(\)
-\[\!\[PyTorch\]\(https://img\.shields\.io/badge/PyTorch\-2\.6\.0%2Bcu124\-purple?style=flat\-square\)\]\(\)
-\[\!\[Pandas\]\(https://img\.shields\.io/badge/Pandas\-2\.2\.3\-teal?style=flat\-square\)\]\(\)
+[![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0.99-blue?style=flat-square)](https://lightgbm.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-green?style=flat-square)](https://xgboost.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-1.2.10-orange?style=flat-square)](https://catboost.ai/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2Bcu124-purple?style=flat-square)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.2.3-teal?style=flat-square)](https://pandas.pydata.org/)
 
